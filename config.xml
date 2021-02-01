@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "online.ght0022equi"
+        id          = "kelements.5"
         versionCode = "10"
         version     = "1.0.0.0" >
 
-	<name>Equivalenza</name>
+	<name>Equivalenza G.P.</name>
 
-	<description>Antilles - Guyane</description>
+	<description>G.P.</description>
 
 	<author href="" email=""></author>
 
@@ -27,7 +27,7 @@
 	<!-- PhoneGap plugin declaration -->
 	
 	<plugin name="cordova-build-architecture" spec="https://github.com/MBuchalik/cordova-build-architecture.git#v1.0.4" source="git" />
-        <content src="https://ght0022.online/" />
+        <content src="https://gwadahub.com/kelements/5" />
 
 	<!-- Whitelist policy  -->
 	<access origin="*" />
