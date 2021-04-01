@@ -1,5 +1,9 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.beerportfolio.beerportfoliopro" version="5.4.9">
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns       = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.kelementequi"
+        versionCode = "10"
+        version     = "1.0.0.0" >
 <name>Equivalenza G.P.</name>
 
     <description>G.P.</description>
