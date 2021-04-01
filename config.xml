@@ -15,10 +15,9 @@
     <preference name="loadUrlTimeoutValue" value="700000" />
     <preference name="disallowOverscroll" value="false" />
     <preference name="webviewbounce" value="false" />
+    <!-- SplashScreen configuration -->
     <preference name="FadeSplashScreen" value="true" />
     <preference name="FadeSplashScreenDuration" value=".25" />
-    <preference name="ShowSplashScreenSpinner" value="true" />
-    <!-- SplashScreen configuration -->
     <preference name="SplashScreen" value="splash" />
     <preference name="SplashScreenDelay" value="10000" />
     <preference name="FadeSplashScreenDuration" value="300" />
